@@ -1,2 +1,2 @@
-# scorecard
-Math core for scorecard size generation
+## Math core
+foldable object core
